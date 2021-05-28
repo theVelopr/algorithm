@@ -1,4 +1,4 @@
-package baekjoon.levels.lv1.lv_08_Division;
+package baekjoon.levels.lv1.lv1_08_Division;
 
 import java.util.Scanner;
 
