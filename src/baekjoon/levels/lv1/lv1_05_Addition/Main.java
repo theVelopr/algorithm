@@ -1,4 +1,4 @@
-package baekjoon.levels.lv1.p05_Addition;
+package baekjoon.levels.lv1.lv1_05_Addition;
 
 import java.util.Scanner;
 
@@ -13,7 +13,6 @@ public class Main {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         int c = a + b;
-
         System.out.println(c);
         */
 

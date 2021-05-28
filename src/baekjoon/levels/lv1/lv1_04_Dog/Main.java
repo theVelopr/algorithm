@@ -1,4 +1,4 @@
-package baekjoon.levels.lv1.p04_Dog;
+package baekjoon.levels.lv1.lv1_04_Dog;
 
 /**
  * |\_/|
