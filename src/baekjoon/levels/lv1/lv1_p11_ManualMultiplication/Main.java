@@ -10,7 +10,7 @@ public class Main {
         int b = sc.nextInt();
 
         // toString으로 받아서 값을 쪼개고 계산한 후 substring으로 표현하면 될 것 같은데...?
-        // 일단 업무부터. 
+        // 일단 업무부터.
 
 
 
