@@ -10,13 +10,17 @@
 
 ### Currently Using
 - (April 10, 2021) Java
+- (June 1, 2021) Python
 
 ### In the Neaer Future
 - JavaScript
-- Python
-- Go
 
 ## List of Websites
 **Algorithm**
 - [BAEKJOON](https://www.acmicpc.net)
 - [CodingBat](https://codingbat.com/java)
+
+## References
+
+Copyright 2021 FastCampus All rights reserved.
+Copyright 2021 <a href="https://wikidocs.net/profile/info/book/400">조대표</a> All rights reserved.
